@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.89
+    }, 
+    {
+      "id": 2,
+      "name": "Notebook Asus",
+      "price": 2500
+    }, 
+    {
+      "id": 3,
+      "name": "Celular Motorola",
+      "price": 1700
+    }
+  ] 
+}
